@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsDesignerTest", "WinFormsDesignerTest\WinFormsDesignerTest.csproj", "{BCA830F7-0F6A-454E-8EE0-706DA3B7DA6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsDesignerBase", "WinFormsDesignerBase\WinFormsDesignerBase.csproj", "{11BE071E-5CE1-4A4F-A9A9-4F58BC7BF13A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA830F7-0F6A-454E-8EE0-706DA3B7DA6A}.Debug|x86.ActiveCfg = Debug|x86
+		{BCA830F7-0F6A-454E-8EE0-706DA3B7DA6A}.Debug|x86.Build.0 = Debug|x86
+		{BCA830F7-0F6A-454E-8EE0-706DA3B7DA6A}.Release|x86.ActiveCfg = Release|x86
+		{BCA830F7-0F6A-454E-8EE0-706DA3B7DA6A}.Release|x86.Build.0 = Release|x86
+		{11BE071E-5CE1-4A4F-A9A9-4F58BC7BF13A}.Debug|x86.ActiveCfg = Debug|x86
+		{11BE071E-5CE1-4A4F-A9A9-4F58BC7BF13A}.Debug|x86.Build.0 = Debug|x86
+		{11BE071E-5CE1-4A4F-A9A9-4F58BC7BF13A}.Release|x86.ActiveCfg = Release|x86
+		{11BE071E-5CE1-4A4F-A9A9-4F58BC7BF13A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {609CA8B2-3C7F-44F2-BF9C-1C654853653D}
+	EndGlobalSection
+EndGlobal
